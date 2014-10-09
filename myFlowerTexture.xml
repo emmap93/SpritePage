@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:087df292afd095551f3498694b271504:f6bd54785efcbb30f546641c6d25803d:6a3cd5b79d3d2a2d5a12a3a81225f2d3$ -->
+<TextureAtlas imagePath="myFlowerTextute.png">
+    <SubTexture name="images" x="2" y="2" width="251" height="201"/>
+</TextureAtlas>

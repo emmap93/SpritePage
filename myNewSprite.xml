@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9a42adf66946308ea3f5538ab21dd4b2:d5554c1d15ec814a402d0a4e350a2421:c0f6b64323886a3ecffec42e4a0f69d0$ -->
+<TextureAtlas imagePath="myNewSprite.png">
+    <SubTexture name="download (1)" x="2" y="2" width="197" height="255"/>
+    <SubTexture name="download" x="201" y="2" width="308" height="164"/>
+</TextureAtlas>
